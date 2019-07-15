@@ -7,6 +7,7 @@ Multithreaded server (non-asynchronous) with multiplexed input/output for socket
 Characteristics:
      - the C++11 standard was used;
      - written under Linux x64.
+     
 A cross-platform approach was used.
 Tested under Debian Stretch (9.8) x64.
 The project has a Makefile to make it easier to build a Linux OS project.
